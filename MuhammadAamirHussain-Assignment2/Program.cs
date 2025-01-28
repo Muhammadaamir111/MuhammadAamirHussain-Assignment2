@@ -26,7 +26,7 @@ namespace MuhammadAamirHussain_Assignment2
             var cars = new List<CarImpl> { car1, car2, car3 };
             var motorcycles = new List<MotorcycleImpl> { motorcycle1, motorcycle2, motorcycle3 };
 
-            // Display and test each car's engine status
+            // Display and test each car's engine status.
             Console.WriteLine("Car Details and Engine Status:");
             foreach (var car in cars)
             {
@@ -38,7 +38,7 @@ namespace MuhammadAamirHussain_Assignment2
                 Console.WriteLine();
             }
 
-            // Display and test each motorcycle's engine status
+            // Display and test each motorcycle's engine status.
             Console.WriteLine("Motorcycle Details and Engine Status:");
             foreach (var motorcycle in motorcycles)
             {
