@@ -3,8 +3,6 @@ Namn: Muhammad Aamir Hussain
 
 # Inlämningsrapport
 
-Information
-OBS!!! Ändra absolut inte på rubrikerna i denna fil!!!!
 
 ## Inledning
 
@@ -22,7 +20,8 @@ Jag började med att skapa ett nytt projekt i Visual Studio och organisera projek
 
 ## Utmaningar och lösningar
 
-### VEn av de största utmaningarna var att förstå och implementera CreateVehicle-metoden i CarFactory och MotorcycleFactory. Det var förvirrande att hantera interface och separata metoder samtidigt. Jag hade också svårt att förstå hur polymorfism skulle implementeras i listor av fordon. Dessutom var det utmanande att hantera mindre buggar som uppstod under testningen.
+### Vilka utmaningar stötte du på under projektet?
+En av de största utmaningarna var att förstå och implementera CreateVehicle-metoden i CarFactory och MotorcycleFactory. Det var förvirrande att hantera interface och separata metoder samtidigt. Jag hade också svårt att förstå hur polymorfism skulle implementeras i listor av fordon. Dessutom var det utmanande att hantera mindre buggar som uppstod under testningen.
 
 --- Skriv ovanför och ta inte bort denna raden ---
 
