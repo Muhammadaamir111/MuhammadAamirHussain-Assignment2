@@ -1,5 +1,5 @@
 
-Namn: [Ditt namn]
+Namn: Muhammad Aamir Hussain
 
 # Inlämningsrapport
 
@@ -9,7 +9,7 @@ OBS!!! Ändra absolut inte på rubrikerna i denna fil!!!!
 ## Inledning
 
 ### Hur uppfattade du uppgiften initialt?
-
+Uppgiften verkade först komplex och omfattande med många steg och detaljer att hålla koll på. Men efter att jag hade läst igenom instruktionerna flera gånger och förstått upplägget, kändes det mer hanterbart. Jag insåg att det skulle bli en lärorik uppgift som involverade flera olika delar av programmering.
 --- Skriv ovanför och ta inte bort denna raden ---
 
 ## Planering och genomförande
